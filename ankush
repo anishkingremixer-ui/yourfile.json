@@ -16,5 +16,17 @@
         "key": "p280shado𝐜𝐱",
         "expirydate": "08-08-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "22dd0bd07e3910e7",
+        "key": "p20xhsu",
+        "expirydate": "08-06-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "71975835d97755c2",
+        "key": "p280shadowb",
+        "expirydate": "13-08-2025",
+        "Allowoffline": false
     }
 ]
